@@ -1,0 +1,8 @@
+node_modules/
+.env
+auth/
+logs/
+temp_extract/
+temp_files/
+.DS_Store
+*.log
